@@ -163,4 +163,3 @@ To remove the block, open the MacOS "Settings", go to "Privacy & Security", scro
 
 - glm: \
   https://github.com/g-truc/glm/releases/tag/1.0.1
-# Graphics2
